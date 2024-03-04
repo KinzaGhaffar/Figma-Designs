@@ -12,3 +12,8 @@ TrainerBot addresses the need for a social fitness platform that motivates users
 TrainerBot aims to create a vibrant and supportive fitness community, connecting users with friends and likeminded peers, and making the journey to health enjoyable and sustainable.
 
 - Visit [TrainerBot Applicaton](https://www.figma.com/file/ObtETxKIsR5VDjRwZ7Ng7G/TrainerBot-Application?type=design&node-id=0-1&mode=design&t=HmNX9ryFlt2Jwd5f-0) to review design.
+
+# HealthSync-AI
+HealthSync AI is a game-changing tool that has the potential to completely change healthcare analytics and decision-making procedures. Through the use of artificial intelligence, this software system provides real-time processing, analysis, and visualization capabilities, addressing the difficulties brought about by the amount and complexity of healthcare data. The design and user interface of the HealthSync-AI application, crafted using Figma, prioritize simplicity and accessibility. It is imperative that users find the application intuitive and informative, enabling them to understand and act upon the health insights provided. The design process has therefore been guided by the principles of clarity and user-friendliness, ensuring that the application can be used effectively by a broad audience, regardless of their familiarity with technology.
+
+- Visit [HealthSync-AI Applicaton](https://www.figma.com/proto/5YTnjdoa5WTRg3qca1VKrh/HealthSync-AI?type=design&node-id=0-140&t=ifEBnX70RExpmJx7-0&scaling=scale-down&page-id=0%3A1) to review design.
